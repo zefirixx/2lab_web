@@ -63,3 +63,22 @@
 
 </body>
 </html>
+
+<script>
+document.getElementById("conferenceForm").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    const name = this.name.value;
+    const year = this.birthyear.value;
+    const section = this.section.value;
+    const participation = this.participation.value;
+
+    alert(
+        "Вы ввели: " +
+        name + ", " +
+        year + ", секция: " +
+        section + ", форма участия: " +
+        participation
+    );
+});
+</script>
