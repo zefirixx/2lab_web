@@ -28,7 +28,7 @@ docker-compose up -d --build
 
 ```docker-compose.yml``` — описание сервиса Nginx
 
-```code/index.html``` — главная HTML-страница
+```www/index.html``` — главная HTML-страница
 
 ```defaul.conf``` — конфиг c добавленной секцией для обработки PHP
 
