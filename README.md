@@ -30,6 +30,8 @@ docker-compose up -d --build
 
 ```www/index.html``` — главная HTML-страница
 
+```www/index.php``` — страница с подробной информацией о PHP 
+
 ```defaul.conf``` — конфиг c добавленной секцией для обработки PHP
 
 ```screenshots/``` — все скриншоты
