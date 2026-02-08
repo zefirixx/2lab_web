@@ -24,7 +24,7 @@ docker-compose up -d --build
 Открыть в браузере:
 ```http://localhost:8080```
 
-Содержимое проекта
+Содержимое проекта:
 
 ```docker-compose.yml``` — описание сервиса Nginx
 
