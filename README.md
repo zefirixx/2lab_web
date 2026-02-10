@@ -32,7 +32,7 @@ docker-compose up -d --build
 
 ```www/index.php``` — страница с подробной информацией о PHP 
 
-```defaul.conf``` — конфиг c добавленной секцией для обработки PHP
+```default.conf``` — конфиг c добавленной секцией для обработки PHP
 
 ```screenshots/``` — все скриншоты
 
